@@ -1,4 +1,4 @@
-keynum = [45, 49, 52, 57, 52, 49, 45]; %key numbers of arp.
+keynum = [45, 49, 52, 57, 52, 49, 45]; %key numbers for creating an arpeggio & chords
 amps = ones(1,length(keynum));
 freq = []; %initialize
 tStart = []; %initialize
