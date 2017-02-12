@@ -6,4 +6,4 @@ The goal of this project was to gain familiarity with complex numbers and their 
 
 I added multiple sinusodial waves of varying frequencies in `Plotting Multiple Sinusodis.m` with the helper function in `addCosVals.m`. 
 
-In this example, adding multiple sinusodial waves approximated into a square wave.  
+In this example, adding multiple sinusodial waves of varying frequencies approximated into a square wave.  
