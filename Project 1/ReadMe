@@ -6,5 +6,6 @@ visualization. Waveform visualization is an important tool as well as a skill in
 Signals we learn to process may be generated or recorded internally as a data array within MATLAB, or
 acquired from external sources such as a wav file. 
 
-Furthermore, with a proper format converter, it's possible to record voice or music with our own computers and then load the recorded results, after converting
-them to the supported formats, into MATLAB for processing to produce interesting effects. 
+Furthermore, with a proper format converter, it's possible to record voice or music with our own computers 
+and then load the recorded results, after converting them to the supported formats, into MATLAB for processing 
+to produce interesting effects. 
