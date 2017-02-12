@@ -1,6 +1,6 @@
 close all
 clear all
-num_sinusoid = [50 10]; % [50 10] to portray Sum of 50 sinusoids on the left and 10 sinusoids on the right.
+num_sinusoid = [50 10]; % [50 10] to portray Sum of 50 sinusoids on the left and 10 sinusoids on the right
 f0 = 2; 
 for jj = 1:length(num_sinusoid)
     clear cosIn
