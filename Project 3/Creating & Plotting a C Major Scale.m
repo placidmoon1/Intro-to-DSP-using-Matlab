@@ -1,4 +1,5 @@
 % generating a C-major scale
+% helper function: key2sinus (changes piano keys to sinusodial waves)
 xxZero = zeros(1,800); 
 sum = [];
 real = [];
