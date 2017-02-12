@@ -4,4 +4,12 @@ The objective of this project was to synthesize piano key notes and DTMF (dual t
 
 More precisely speaking, in this project, I created a "C-major scale" and a "Touch-Tone Dial Function" (based on the Extended DTMF encoding table for Touch Tone dialing) that creates a DTMF signal unique to a phone number. 
 
-## 
+## Project 3 Information 
+
+1. Creating a C-major scale: 
+  1.1 I first created a helper function `key2sinus.m` that converts piano keys to sinusodial signals. 
+  1.2 Then, using the `Creating & Plotting a C Major Scale.m`, I created a spectrogram (`spectrogram` or `plotspec`) and played the C major scale (using `soundsc)
+  1.3 I plotted the created time-frequency spectrogram in `C-Major Scale Spectrogram.jpg`. 
+2. Creating a DTMF signal
+  2.1 I created the `DTMFdial.m` code using arrays and vectors to emulate the Extended DTMF encoding table in MatLab. 
+  2.2 Using `DTMFdial.m`, I plotted the DTMF signal that the phone number `268073A` produces. 
