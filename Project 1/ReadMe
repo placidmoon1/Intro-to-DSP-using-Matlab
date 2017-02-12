@@ -3,7 +3,7 @@
 The objective of Project 1 was to learn how to acquire signals into MATLAB and to display them for
 visualization. Waveform visualization is an important tool as well as a skill in signal analysis. 
 
-Signals we learn to process may be generated or recorded internally as a data array within MATLAB, or
+Signals we learn to process can be generated or recorded internally as a data array within MATLAB, or
 acquired from external sources such as a wav file. 
 
 Furthermore, with a proper format converter, it's possible to record voice or music with our own computers 
