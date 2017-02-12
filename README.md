@@ -1,5 +1,5 @@
 # ECE-2026
-This repository features MATLAB codes that I've written for projects created in my Intro to Digital Signal Processing class from Georgia Tech. 
+This repository features MATLAB codes that I've written for projects for my Intro to Digital Signal Processing class from Georgia Tech. 
 
 Duration of this course was from '17 Jan to '17 May and principally involved manipulation of various types of signals. 
 
