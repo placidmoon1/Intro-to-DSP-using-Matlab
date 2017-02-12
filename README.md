@@ -1,5 +1,5 @@
 # ECE-2026
-This repository features MATLAB codes that I've written for projects created in my ECE 2026 Intro to Digital Signal Processing class. 
+This repository features MATLAB codes that I've written for projects created in my Intro to Digital Signal Processing class. 
 Duration of this course was from '17 Jan to '17 May and principally involved manipulation of signals. 
 
 ## Brief Description of Projects 
