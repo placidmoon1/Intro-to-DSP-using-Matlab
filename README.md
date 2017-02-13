@@ -1,7 +1,7 @@
 # Introduction to Signal Processing (ECE 2026)
 This repository features MATLAB codes that I've written for projects for my Introduction to Signal Processing class from Georgia Tech. 
 
-Duration of this course was from '17 Jan to '17 May and principally involved manipulation of various types of signals. 
+Duration of this course was from '17 Jan to '17 May and principally involved numerous manipulation of various types of signals using MATLAB. 
 
 ## Brief Description of Projects 
 
