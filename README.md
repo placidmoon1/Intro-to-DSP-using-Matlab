@@ -9,3 +9,4 @@ Duration of this course was from '17 Jan to '17 May and principally involved man
 2. Using Complex Exponentials and Adding Multiple Sinusodial Waves ('17 1/25 - 1/31)
 3. Synthesis of Sinusoidal Signals: Music and DTMF Synthesis ('17 2/1 - 2/7)
 4. Synthesis of AM and FM Signals ('17 2/8 - 2/14)
+5. Spectrograms, Harmonic Lines, Sampling and Aliasing ('17 2/15 - 2/21) 
