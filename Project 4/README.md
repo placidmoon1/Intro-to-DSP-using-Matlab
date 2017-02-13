@@ -15,5 +15,5 @@ Arpeggio & Chords:
 
 Exponential Frequency Modulation(FM) Signals: 
   1. Using `Exponential_FM_Spectrogram.m`, it's possible to create a signal whose frequency modulates exponentially as time increases. 
-  2. The resulting time-frequency spectrogram of the signal is plotted in `Exponential FM Time-Frequency Spectrogram`. 
+  2. The resulting time-frequency spectrogram of the signal is plotted in `Exponential FM Time-Frequency Spectrogram.jpg`. 
 
