@@ -1,5 +1,5 @@
 # Project 5: Spectrograms, Harmonic Lines, Sampling & Aliasing
-  The objective of this project was:
+### The objective of this project was:
     1. Synthesize a beat-note signal with a MATLAB M-file, and display its spectrogram. 
     2. Study the frequency resolution of the spectrogram for two closely spaced sinusoids. 
     3. Spectrogram: Make empirical observations of the spectrogram as the section length is changed. 
